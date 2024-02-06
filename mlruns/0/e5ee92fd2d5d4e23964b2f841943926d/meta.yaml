@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/mlruns/0/e5ee92fd2d5d4e23964b2f841943926d/artifacts
+end_time: 1707244725738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5ee92fd2d5d4e23964b2f841943926d
+run_name: overjoyed-finch-609
+run_uuid: e5ee92fd2d5d4e23964b2f841943926d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707244718985
+status: 3
+tags: []
+user_id: root
